@@ -1,0 +1,18 @@
+.navbar {
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.46);
+}
+
+.profile {
+    padding: 20px 0;
+    margin-top: 56px;
+}
+
+.profile-main, .profile-specifications {
+    margin-bottom: 20px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
